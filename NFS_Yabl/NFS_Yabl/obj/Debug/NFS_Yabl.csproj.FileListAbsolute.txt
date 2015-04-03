@@ -1,0 +1,6 @@
+D:\Учеба\С#_5.0\DZ\DZ_4.04.15\NFS_Yabl\NFS_Yabl\bin\Debug\NFS_Yabl.exe.config
+D:\Учеба\С#_5.0\DZ\DZ_4.04.15\NFS_Yabl\NFS_Yabl\obj\Debug\NFS_Yabl.csprojResolveAssemblyReference.cache
+D:\Учеба\С#_5.0\DZ\DZ_4.04.15\NFS_Yabl\NFS_Yabl\bin\Debug\NFS_Yabl.exe
+D:\Учеба\С#_5.0\DZ\DZ_4.04.15\NFS_Yabl\NFS_Yabl\bin\Debug\NFS_Yabl.pdb
+D:\Учеба\С#_5.0\DZ\DZ_4.04.15\NFS_Yabl\NFS_Yabl\obj\Debug\NFS_Yabl.exe
+D:\Учеба\С#_5.0\DZ\DZ_4.04.15\NFS_Yabl\NFS_Yabl\obj\Debug\NFS_Yabl.pdb
